@@ -1,0 +1,26 @@
+.header {
+	margin: 16px;
+	margin-bottom: 48px;
+	display: flex;
+	justify-content: space-between;
+}
+
+@media screen and (min-width: 768px) {
+	.header {
+		margin: 28px 24px;
+		margin-bottom: 48px;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+	.header {
+		margin: 28px 48px;
+		margin-bottom: 48px;
+	}
+}
+
+@media screen and (min-width:  1280px) {
+	.header {
+		margin-bottom: 56px;
+	}
+}
