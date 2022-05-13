@@ -1,17 +1,17 @@
 .lead__images {
-	box-sizing: border-box;
-	margin: 0;
-	width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  width: 100%;
 }
 
 @media screen and (min-width: 1024px) {
-	.lead__images {
-		width: calc(1024px - 96px);
-	}
+  .lead__images {
+    width: calc(1024px - 96px);
+  }
 }
 
 @media screen and (min-width: 1280px) {
-	.lead__images {
-		width: calc(1280px - 296px);
-	}
+  .lead__images {
+    width: calc(1280px - 296px);
+  }
 }
