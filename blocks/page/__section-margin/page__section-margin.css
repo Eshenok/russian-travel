@@ -1,0 +1,15 @@
+.page__section-margin {
+    margin-bottom: 64px;
+}
+
+@media screen and (min-width: 768px) {
+    .page__section-margin {
+        margin-bottom: 88px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .page__section-margin {
+        margin-bottom: 92px;
+    }
+}
