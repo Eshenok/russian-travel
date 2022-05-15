@@ -1,11 +1,27 @@
 .cover {
   max-width: 1184px;
+  display: flex;
+  justify-content: center;
+  min-height: 200px;
   background-image: url(../../images/cover__background.jpg);
   background-size: cover;
 }
 
 @media screen and (min-width: 768px) {
   .cover {
+  	min-height: 480px;
     margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .cover {
+    min-height: 640px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .cover {
+    min-height: 740px;
   }
 }
