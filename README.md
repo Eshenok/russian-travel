@@ -1,4 +1,4 @@
-# Russian travel https://eshenok.github.io/russian-travel/    
+# Russian travel    
   
 lending page 'Russian travel' - The second project of a full-fledged, adaptive site.  
 The site is designed to demonstrate the skills of adaptive layout.  
@@ -9,3 +9,5 @@ The site tells about the most beautiful and famous natural places in Russia that
 * adaptive layout
 ## Possible improvements 
 * Refine the visual style of the site for screen resolutions above 1500px.
+  
+## link: https://eshenok.github.io/russian-travel/ 
